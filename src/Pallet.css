@@ -1,0 +1,24 @@
+.Pallet {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Pallet-color {
+    height: 90%;
+}
+
+.Pallet-fotter{
+    background-color: white;
+    height: 5vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+}
+.emoji{
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+
